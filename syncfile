@@ -1,0 +1,3 @@
+This file is created to check the functionality of syncing a fork.
+git remote add upstream <url>
+git pull upstream main
